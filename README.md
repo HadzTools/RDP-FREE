@@ -2,7 +2,7 @@
 
 # SERVER 2022
 
-# Powershell Broken
+# Sorry Powershell Broken
 
 # Security Policy
 
